@@ -1,0 +1,30 @@
+# Compile of _and.v was successful.
+# Compile of _and.v was successful.
+# Compile of _and.v was successful.
+# Compile of _and.v was successful.
+# Compile of _and.v was successful.
+# Compile of _and.v was successful.
+# Compile of _and.v was successful.
+vsim work._and
+# vsim work._and 
+# Start time: 12:12:09 on Aug 18,2025
+# Loading work._and
+add wave -position end  sim:/_and/A
+add wave -position end  sim:/_and/B
+add wave -position end  sim:/_and/C
+force -freeze sim:/_and/A 0 0
+force -freeze sim:/_and/B 0 0
+run
+force -freeze sim:/_and/A 0 0
+force -freeze sim:/_and/B 1 0
+run
+force -freeze sim:/_and/A 1 0
+force -freeze sim:/_and/B 0 0
+force -freeze sim:/_and/A 1 0
+force -freeze sim:/_and/B 0 0
+run
+force -freeze sim:/_and/A 1 0
+force -freeze sim:/_and/B 1 0
+run
+# End time: 12:33:20 on Aug 18,2025, Elapsed time: 0:21:11
+# Errors: 0, Warnings: 0
