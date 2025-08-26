@@ -1,0 +1,28 @@
+# Compile of HA_TB.v was successful.
+vsim work.HA_TB
+# vsim work.HA_TB 
+# Start time: 19:13:11 on Aug 25,2025
+# Loading work.HA_TB
+# Loading work.HA
+add wave -position end  sim:/HA_TB/A_tb
+add wave -position end  sim:/HA_TB/B_tb
+add wave -position end  sim:/HA_TB/S_tb
+add wave -position end  sim:/HA_TB/AS_tb
+run -all
+# ** Note: $stop    : C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v(30)
+#    Time: 400 ns  Iteration: 0  Instance: /HA_TB
+# Break in Module HA_TB at C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v line 30
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Note: $stop    : C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v(30)
+#    Time: 400 ns  Iteration: 0  Instance: /HA_TB
+# Break in Module HA_TB at C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v line 30
+run -all
+restart
+run -all
+# ** Note: $stop    : C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v(30)
+#    Time: 400 ns  Iteration: 0  Instance: /HA_TB
+# Break in Module HA_TB at C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v line 30
+# End time: 19:17:29 on Aug 25,2025, Elapsed time: 0:04:18
+# Errors: 0, Warnings: 1

@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vHA
+!s110 1756170437
+!i10b 1
+!s100 fm@BZ2RW2b4[<C[2zfX8T1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ig_Xn6?<]VI]cnd7GeS3TU2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)
+w1756170431
+8C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA.v
+FC:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA.v
+!i122 1
+L0 3 6
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1756170436.000000
+!s107 C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@h@a
+vHA_TB
+!s110 1756170778
+!i10b 1
+!s100 76_K_g3Xb50a[H>lI:A2>0
+R0
+InnBcm7l<IA[>_8;oDU_Ok3
+R1
+R2
+w1756170776
+8C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v
+FC:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v
+!i122 2
+L0 3 31
+R3
+r1
+!s85 0
+31
+!s108 1756170778.000000
+!s107 C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v|
+!i113 1
+R4
+R5
+n@h@a_@t@b

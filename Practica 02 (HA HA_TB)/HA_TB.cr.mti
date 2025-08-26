@@ -1,0 +1,8 @@
+{C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v} {1 {vlog -work work -stats=none {C:/Users/HP-/Desktop/Arquitectura de computadoras/Practica 02 (HA HA_TB)/HA_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HA_TB
+
+Top level modules:
+	HA_TB
+
+} {} {}}
