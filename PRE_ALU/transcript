@@ -1,0 +1,16 @@
+# Compile of PRE_ALU_TB.v was successful.
+vsim work.PRE_ALU_TB
+# vsim work.PRE_ALU_TB 
+# Start time: 11:54:23 on Sep 01,2025
+# Loading work.PRE_ALU_TB
+# Loading work.PRE_ALU
+add wave -position end  sim:/PRE_ALU_TB/A_tb
+add wave -position end  sim:/PRE_ALU_TB/B_tb
+add wave -position end  sim:/PRE_ALU_TB/selector_tb
+add wave -position end  sim:/PRE_ALU_TB/C_tb
+run -all
+# ** Note: $stop    : C:/Users/HP-/Desktop/PRE_ALU/PRE_ALU_TB.v(56)
+#    Time: 600 ns  Iteration: 0  Instance: /PRE_ALU_TB
+# Break in Module PRE_ALU_TB at C:/Users/HP-/Desktop/PRE_ALU/PRE_ALU_TB.v line 56
+# End time: 12:02:49 on Sep 01,2025, Elapsed time: 0:08:26
+# Errors: 0, Warnings: 2
