@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HP-/Desktop/PREUBA_ALU
+vALU
+!s110 1757468222
+!i10b 1
+!s100 =Sma@F9YC7<LDA2677?bI0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ibhz?<I>DdYnO_aOhPhdB]1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HP-/Desktop/Actividad_3_ALU
+w1757468201
+8C:/Users/HP-/Desktop/Actividad_3_ALU/ALU.v
+FC:/Users/HP-/Desktop/Actividad_3_ALU/ALU.v
+!i122 8
+L0 3 85
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1757468222.000000
+!s107 C:/Users/HP-/Desktop/Actividad_3_ALU/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP-/Desktop/Actividad_3_ALU/ALU.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vALU_TB
+!s110 1757468347
+!i10b 1
+!s100 Me;i?1jJbPI:d:2NTc1^U1
+R0
+In`?kJ6WbmA]XHVPNlWo]z1
+R1
+R2
+w1757468340
+8C:/Users/HP-/Desktop/Actividad_3_ALU/ALU_TB.v
+FC:/Users/HP-/Desktop/Actividad_3_ALU/ALU_TB.v
+!i122 9
+L0 3 108
+R3
+r1
+!s85 0
+31
+!s108 1757468347.000000
+!s107 C:/Users/HP-/Desktop/Actividad_3_ALU/ALU_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP-/Desktop/Actividad_3_ALU/ALU_TB.v|
+!i113 1
+R4
+R5
+n@a@l@u_@t@b
